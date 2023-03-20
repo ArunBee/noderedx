@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import User from './User';
-import HomeContiner from './Container/HomeContainer'
+import HomeContiner from './Container/HomeContainer';
+
 
 function App() {
   return (

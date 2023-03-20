@@ -10,4 +10,4 @@ export const removetocart=(data) => {
         type: "Remove_To_Cart",// It must be differnet from another type
         data: data
     }
-    }
+}
