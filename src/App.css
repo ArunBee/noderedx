@@ -30,6 +30,9 @@
 .image-wraper img{
   width: 50%;
 }
+.Header-component img {
+  width: 10%;
+}
 
 @keyframes App-logo-spin {
   from {
